@@ -55,5 +55,5 @@ return certificates[certHash];
 
 
 ## Result :
-The program executed successfully
+The program executed successfully.
 
